@@ -24,9 +24,9 @@ author:
   avatar           : "ankit-bhatia-image.png"
   name             : "Ankit Bhatia"
   pronouns         : # example: "he/his"  
-  bio              : " headline ... "
-  location         : "Washington D.C."
-  employer         : "Johns Hopkins University"
+  bio              : " PhD Candidate, International Development"
+  location         : "Washington DC"
+  employer         : "SAIS, Johns Hopkins University"
   uri              : # URL
   email            : "abhati17@jhu.edu" 
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         :  "ankit-r-bhatia"
+  linkedin         :  "ankytbhatya"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "bhatiaankit26"  # Replace this with your X / Twitter handle
+  twitter          : "ankytbhatya"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
