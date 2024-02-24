@@ -18,7 +18,11 @@ Beyond my academic and professional pursuits, I enjoy cooking, cricketing, and s
 Contact
 =====
 
-Johns Hopkins School of Advanced International Studies  
-555 Pennsylvania Avenue NW, Washington, DC 20001
+Paul H. Nitze School of Advanced International Studies   
+
+Johns Hopkins University Bloomberg Centre  
+
+555 Pennsylvania Avenue NW, Washington, DC 20001  
+
 Mobile: 1-202-390-3558 | Email: ankytbhatya@gmail.com
 
