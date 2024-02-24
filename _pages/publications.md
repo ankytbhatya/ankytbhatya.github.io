@@ -9,8 +9,10 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+===
+
 Research in Progress:
-=====
+===
 
 * 'Land Markets and Economic Development: Evaluating the Long-term Persistent Effects of Scheduled Areas
 in India' using geographic Regressions Discontinuity Design.
@@ -20,7 +22,7 @@ access approach.
 infrastructure projects' using NLP and high-resolution satellite imagery.
 
 Select Term Papers:
-=====
+===
 
 * 'Temples of Modern India: Estimating cost and time overruns in large irrigation projects in India', Term
 Paper for India’s Political Economy Challenges course, Johns Hopkins SAIS, 2022
@@ -31,7 +33,7 @@ Strategies course, Johns Hopkins SAIS, 2021
 
 
 Policy Research
-======
+===
 
 * ‘Mapping Indian Land Laws: A review of right Indian states’, CPR, 2022
 * ‘Tracking Reforms in Land Leasing and Change in Land Use: Insights from Gujarat and Karnataka’,
@@ -41,15 +43,10 @@ Carnegie India, 2021
 * ‘Building Smart Cities in India: Allahabad, Ajmer, and Visakhapatnam’, Brookings India, 2016
 
 Op-Eds/ Podcasts
-======
+===
+
 * ‘Policy Winds, Land Rights, And Wrongs’, LongShorts, Season 3, Episode 40, Transfin, 2019
 * ‘Municipal Bond Market Could Be the Answer to Financing Woes of Smart Cities’, The Wire, 2016
 * ‘For Smart Cities to Succeed, Strengthening Local Governance Is a Must’, The Wire, 2016
 * ‘A Governance-first Approach to India’s Smart Cities’, Brookings Institution, 2016
 
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
