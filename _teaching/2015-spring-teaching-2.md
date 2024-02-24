@@ -2,9 +2,9 @@
 title: "Johns Hopkins University"
 collection: teaching
 type: "Graduate Teaching Assistant"
-permalink:
+permalink: /teaching/2014-spring-teaching-2
 venue: "Paul H. Nitze School of Advanced International Studies (SAIS)"
-date: 
+date: 2022-01-01
 location: "Washington DC, USA"
 ---
 
