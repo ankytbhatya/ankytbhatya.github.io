@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Moolya Foundation"
 collection: teaching
-type: "Undergraduate course"
+type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Summer School 2021"
+date: 2021-01-01
+location: "New Delhi, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+― “Certificate Course on Public Policy 101” to a cohort of 100 students from India and Nepal.
+― Hosted “Introduction to Public Policy” webinars in 25+ premier colleges in India and Nepal.
+― Interacted with 1,000+ students to discuss career paths and skill development in public policy.
