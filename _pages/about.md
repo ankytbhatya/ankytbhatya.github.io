@@ -19,10 +19,7 @@ Contact
 =====
 
 Paul H. Nitze School of Advanced International Studies   
-
 Johns Hopkins University Bloomberg Centre  
-
 555 Pennsylvania Avenue NW, Washington, DC 20001  
-
-Mobile: 1-202-390-3558 | Email: ankytbhatya@gmail.com
+Email: ankytbhatya@gmail.com
 
