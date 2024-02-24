@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Johns Hopkins University"
 collection: teaching
-type: "Workshop"
+type: "Graduate Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "School of Advanced International Studies"
+date: 2022-01-01
+location: "Washington DC, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+― Advanced Quantitative Methods (Professor Shoumitro Chatterjee, Fall 23).
+― Economic Development (Professor Shoumitro Chatterjee, Fall 23).
+― Applied Econometrics (Professor Shoumitro Chatterjee, Spring 23).
+― Economic Development (Professor Shoumitro Chatterjee, Fall 22).
+― Econometrics (Professor Ritam Chaurey, Spring 22).
