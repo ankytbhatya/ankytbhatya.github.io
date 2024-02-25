@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! Welcome to Ankytverse."
+title: "Hello! Welcome to Ankytverse!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,11 +15,10 @@ Before embarking on my doctoral journey, I hold master's and bachelor’s degree
 Beyond my academic and professional pursuits, I enjoy cooking, cricketing, and seriously humoring my family and friends.
 
 
-Contact
-=====
+## Contact
 
 Paul H. Nitze School of Advanced International Studies   
 Johns Hopkins University Bloomberg Centre  
 555 Pennsylvania Avenue NW, Washington, DC 20001  
-Email: ankytbhatya@gmail.com
+Email: abhati17@jhu.edu
 
