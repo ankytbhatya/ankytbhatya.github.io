@@ -13,11 +13,10 @@ author_profile: true
 
 ## Research in Progress:
 * 'Land Markets and Economic Development: Evaluating the Long-term Persistent Effects of Scheduled Areas
-in India' using geographic Regressions Discontinuity Design.
-* 'Bridges and Cities: Measuring the impact of road bridges on urban economic geography' using market
-access approach.
+in India' using non-parametric geographic Regressions Discontinuity Design.
+* 'Bridges and Cities: Measuring the impact of road bridges on urban economic geography' using general equilibrium market access approach.
 * 'NIMBYism and Energy Transition: A new approach to estimating human displacement costs of big
-infrastructure projects' using NLP and high-resolution satellite imagery.
+infrastructure projects' using text-based NLP and high-resolution satellite imagery.
 
 ## Select Term Papers:
 * 'Temples of Modern India: Estimating cost and time overruns in large irrigation projects in India', Term
