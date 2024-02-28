@@ -18,7 +18,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /files/resume-ankit-bhatia.pdf
+  #- title: "CV"
+  #  url: /files/resume-ankit-bhatia.pdf
     
 
