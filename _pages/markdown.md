@@ -11,6 +11,10 @@ redirect_from:
 
 Essays on Infrastructure and Economic Development: A Theory and Evidence from Land Markets
 
+## Specialization
+
+International Development, International Economics, South Asia
+
 ## Dissertaion Committee
 * Professor Devesh Kapur, Starr Foundation Professor of South Asian Studies, Johns Hopkins SAIS
 * Professor Shoumitro Chatterjee, Assistant Professor of International Economics, Johns Hopkins SAIS
