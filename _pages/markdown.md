@@ -13,7 +13,7 @@ redirect_from:
 
 *Dissertation Title: Essays on Infrastructure, Urbanization, and Economic Development*
 
-*Committee: Devesh Kapur, Filipe Campante, Shoumitro Chatterjee, Arvind Subramanian (External)*
+*Committee: Devesh Kapur, Filipe Campante, Shoumitro Chatterjee, Arvind Subramanian*
 
 **M.S. & B.S. (Honors) in Economics**, Indian Institute of Technology Kharagpur (IIT), 2009-14
 
