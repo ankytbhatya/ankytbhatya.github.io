@@ -1,62 +1,44 @@
 ---
 layout: archive
-title: "Publications"
+title: "Papers"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# Protect Land Rights, Misallocation, and Dead Capital: Evidence from India (Job Market Paper)
+*Using a geographic Regression Discontinuity Design, this study examines the long-term impact of
+protected land rights on the structural transformation of Indigenous Protected Areas (IPAs). By
+analyzing a law that restricts land transfers between targeted and out-groups within IPAs, I explore
+how land restrictions undermine agglomeration and perpetuate poverty. Geocoding IPA boundaries
+from colonial archives and combining them with high-resolution raster data on built-up areas, I argue
+that legal discontinuities in property rights contributed to lower land conversion, effectively
+misallocating land to low-productivity uses. Furthermore, restrictions on land leasing and mortgaging
+led to land asset undervaluation, adversely impacting the welfare of targeted communities.*
 
+# Bridges, Market Access, and City Growth
+*Using a two-way fixed-effects model on market access, this study explores how bridge connectivity influences city growth and the spatial distribution of firms across 8,000 city clusters in India. By constructing a counterfactual market access measure that removes bridge connections from the transportation network (following Donaldson and Hornbeck, 2016), I isolate the marginal impact of bridges. Preliminary analysis with a newly geocoded dataset of 1,172 large bridges reveals that bridge connectivity contributed to approximately 12% of built-up area growth in the post-liberalization period. Additionally, there is evidence of spatial sorting of manufacturing firms away from bridge sites, aligning with urban agglomeration models. The effects are most pronounced in cities with active urban land development authorities, indicating their crucial cordinnation and market clearing role.*
 
+# Working Papers
+* NIMBYism, Eminent Domain, and Infrastructure Growth (with Devesh Kapur)
 
-## Research in Progress:
-* 'Land Markets and Economic Development: Evaluating the Long-term Persistent Effects of Scheduled Areas
-in India' using non-parametric geographic Regressions Discontinuity Design.
-* 'Bridges and Cities: Measuring the impact of road bridges on urban economic geography' using general equilibrium market access approach.
-* 'NIMBYism and Energy Transition: A new approach to estimating human displacement costs of big
-infrastructure projects' using text-based NLP and high-resolution satellite imagery.
+* Development at Crossroads: Impact of Road Development in Afghanistan (with Ritwiz Sarma)
 
-## Select Term Papers:
-* 'Temples of Modern India: Estimating cost and time overruns in large irrigation projects in India', Term
-Paper for India’s Political Economy Challenges course, Johns Hopkins SAIS, 2022
-* 'Flying Dragon v. Hoping Elephant: Comparing the political economy of land governance in China and India', Term
-Paper for China’s Political Economy in Transition course, Johns Hopkins SAIS, 2022
-* 'Curse of Aid: Evidence from NATO-led road development in Afghanistan', Term Paper for Development
-Strategies course, Johns Hopkins SAIS, 2021
+* Comparative political economy of infrastructure land development in China and India
 
+# Policy Papers
+* “Tracking Reforms In Land Leasing And Change In Land Use: Evidence from Gujarat and Karnataka”,
+Carnegie Endowment for International Peace, August 2021
+* “The Legal Regime And Political Economy Of Land Rights in Scheduled Areas of India”,
+(with Namita Wahi), Centre for Policy Research, March 2018
+* “Land Acquisition in India: A review of Supreme Court cases from 1950 to 2016”,
+(with Namita Wahi and Pallav Shukla) Centre for Policy Research, March 2017
+* “Building smart cities in India: Allahabad, Ajmer, and Visakhapatnam”
+(with Shamika Ravi, Adie Tomar, and Joseph Kane) Brookings Institution, August 2016
 
-## Policy Research
-* ‘Mapping Indian Land Laws: A review of right Indian states’, CPR, 2022
-* ‘Tracking Reforms in Land Leasing and Change in Land Use: Insights from Gujarat and Karnataka’,
-Carnegie India, 2021
-* ‘The Legal Regime and Political Economy of Land Rights in the Scheduled Areas of India’, CPR, 2018
-* ‘Land Acquisition in India: A review of Supreme Court cases from 1950 to 2016’, CPR, 2017
-* ‘Building Smart Cities in India: Allahabad, Ajmer, and Visakhapatnam’, Brookings India, 2016
+# Popular Commentary/ Digital Projects
+* “Mapping 1000 Land Laws” (https://landlawsofindia.org/ ), Centre for Policy Research, August 2022
+* “Policy Winds, Land Rights, and Wrongs” LongShorts, Transfin, Audio Podcast, July 2019
+* “Municipal Bond Market Could Be The Answer To Smart Cities” (with Shamika Ravi), The Wire, 2016
+* “For Smart Cities To Succeed, Local Governance Is A Must” (with Shamika Ravi), The Wire, 2016
+* “A Governance-First Approach To India’s Smart Cities” (with Adie Tomar), Brookings Institution, 2015
 
-## Op-Eds/ Podcasts
-* ‘Policy Winds, Land Rights, And Wrongs’, LongShorts, Season 3, Episode 40, Transfin, 2019
-* ‘Municipal Bond Market Could Be the Answer to Financing Woes of Smart Cities’, The Wire, 2016
-* ‘For Smart Cities to Succeed, Strengthening Local Governance Is a Must’, The Wire, 2016
-* ‘A Governance-first Approach to India’s Smart Cities’, Brookings Institution, 2016
-
-## Invited Presentations
-* Seventh Annual South Asia Conference, Dublin, April 2024
-* First SAIS PhD Conference, Washington DC, April 2024
-* Seventh India and Land Development Conference (ILDC), Pune, November 2023
-* Annual India and Land Development Conference (ILDC), New Delhi, (2020; 2019; 2018)
-* Samvaad: A Tribal Conclave, Tata Steel, Jamshedpur, November 2019
-* Annual CPR-Land Rights Initiative Conference, New Delhi, (2018; 2017; 2016)
-* Bergen Exchanges on Law and Social Transformation, University of Bergen, Bergen, 2017
-* World Bank Brown Bag Lunch Series, New Delhi, February 2017
-* Department of Land Resources, Ministry of Rural Development, Government of India, January 2017
-* Centre for Policy Research Seminar Series, New Delhi, January 2017
-* Annual Seminar, Department of Humanities and Social Sciences, IIT Kharagpur, May 2014
-* Sixteenth Indian Political Economy Association Conference, IIT Roorkee, October 2012
-
-## Invited Workshops
-* National Seminar on Displacement of Scheduled Tribes in India, New Delhi, September 2018
-* National Consultation on Documenting Land Conflicts in India, Raipur, May 2018
-* National Dialogue on Governance in the Scheduled Areas of India, New Delhi, April 2018
-* National Workshop on Land Records Digitization, School of Democracy, Jaipur, March 2018
