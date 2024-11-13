@@ -8,13 +8,14 @@ redirect_from:
 ---
 
 ## Dissertation
-Essays on Infrastructure, Urbanization, and Economic Development
-Committee: Devesh Kapur, Filipe Campante, Shoumitro Chatterjee, Arvind Subramanian (External Member)
-
+*Essays on Infrastructure, Urbanization, and Economic Development*
+## Committee 
+*Devesh Kapur, Filipe Campante, Shoumitro Chatterjee, Arvind Subramanian (External Member)*
 ## Field Specialization
-International Development, International Economics, South Asia
-Research Focus: Development Economics, Economic Geography, Infrastructure Governance 
-Methods Focus: Spatial Microeconometrics, Impact Evaluation, Machine Learning/ NLP  
-
+*International Development, International Economics, South Asia*
+## Research Focus
+*Development Economics, Economic Geography, Institutions* 
+## Methods 
+*Spatial Microeconometrics, Impact Evaluation, Machine Learning/ NLP*  
 ## Teaching Assistant (Master's Level)
-Advance Quantitative Methods, Applied Econometrics, Ecoonomic Development, International Trade
+*Applied Econometrics, Ecoonomic Development, International Trade Theory*
