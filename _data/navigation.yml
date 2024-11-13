@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "PhD Journey"
+  - title: "Profile"
     url: /markdown/
 
-  - title: "Publications/ Talks"
+  - title: "Papers"
     url: /publications/
 
   #- title: "Invited Talks"
