@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Protect Land Rights, Misallocation, and Dead Capital: Evidence from India (Job Market Paper)
+# Protected Land Rights, Misallocation, and Dead Capital: Evidence from India (Job Market Paper)
 *Using a geographic Regression Discontinuity Design, this study examines the long-term impact of
 protected land rights on the structural transformation of Indigenous Protected Areas (IPAs). By
 analyzing a law that restricts land transfers between targeted and out-groups within IPAs, I explore
@@ -23,7 +23,7 @@ led to land asset undervaluation, adversely impacting the welfare of targeted co
 
 * Development at Crossroads: Impact of Road Development in Afghanistan (with Ritwiz Sarma)
 
-* Comparative political economy of infrastructure land development in China and India
+* Comparative Political Economy of Infrastructure Land Development in China and India
 
 # Policy Papers
 * “Tracking Reforms In Land Leasing And Change In Land Use: Evidence from Gujarat and Karnataka”,
