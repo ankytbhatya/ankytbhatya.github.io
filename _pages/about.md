@@ -19,8 +19,12 @@ Beyond my academic and professional interests, I enjoy cooking, cricketing, and 
 ## Contact
 
 *School of Advanced International Studies* 
+
 *Bloomberg Centre*
+
 **Johns Hopkins University**  
+
 <span style="color:black">555 Pennsylvania Avenue NW, Washington, DC 20001</span>  
+
 *Email*: [abhati17@jhu.edu](mailto:abhati17@jhu.edu)
 
