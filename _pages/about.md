@@ -16,6 +16,6 @@ Beyond my academic and professional interests, I enjoy cooking, cricketing, and 
 
 
 # Contact
-<span style="color:black">School of Advanced International Studies</span>  
-<span style="color:black">Johns Hopkins University</span>  
-<span style="color:black">555 Pennsylvania Avenue NW, Washington, DC 20001</span> 
+<span style="color:blue">School of Advanced International Studies</span>  
+<span style="color:blue">Johns Hopkins University</span>  
+<span style="color:blue">555 Pennsylvania Avenue NW, Washington, DC 20001</span> 
