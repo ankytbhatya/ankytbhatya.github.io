@@ -8,25 +8,20 @@ redirect_from:
 ---
 
 ## Dissertation Title
-
-Essays on Infrastructure and Economic Development: A Theory and Evidence from Land Markets
-
-## Specialization
-
-International Development, International Economics, South Asia
-
+Essays on Infrastructure, Urbanization, and Economic Development
 ## Dissertaion Committee
-* Professor Devesh Kapur, Starr Foundation Professor of South Asian Studies, Johns Hopkins SAIS
-* Professor Shoumitro Chatterjee, Assistant Professor of International Economics, Johns Hopkins SAIS
-* Professor Filipe Campante, Bloomberg Distinguished Professor, Johns Hopkins SAIS & Carey Business School
-* Professor Ritam Chaurey, Assistant Professor of International Economics, Johns Hopkins SAIS
-* Dr. Arvind Subramanian, Former Chief Economic Advisor, Government of India 
-
-## Graduate Teaching Assistant
-* Advanced Quantitative Methods/ Applied Econometrics, Professor Shoumitro Chatterjee (Fall 23; Spring 23)
-* Economic Development, Professor Shoumitro Chatterjee (Fall 23; Fall 22)
-* Econometrics, Professor Ritam Chaurey (Spring 22)
-
-## Graduate Research Assitant
-* Professor Devesh Kapur and Dr. Arvind Subramanian (2022-Present)
-* Professor Pravin Krishna, Professor Ritam Chaurey, and Professor Ryan Kim (2022-Present)
+* Professor Devesh Kapur (Faculty Advisor)
+* Professor Shoumitro Chatterjee
+* Professor Filipe Campante
+* Professor Ritam Chaurey
+* Dr. Arvind Subramanian (External Member) 
+## Field Specialization
+International Development, International Economics, South Asia
+## Research Focus
+Development Economics, Economic Geography, Infrastructure Governance 
+* Methods: Spatial Micro-econometrics, Impact Evaluation, Machine Learning/ NLP  
+## Teaching Assistant (Master's Level)
+* International Trade (Fall’24), Pravin Krishna 
+* Quantitative Methods II (Spring’24; Fall’23; Spring’23), Shoumitro Chatterjee 
+* Economic Development (Fall’24; Fall’23; Fall’22), Shoumitro Chatterjee 
+* Applied Econometrics (Spring’22), Ritam Chaurey  
