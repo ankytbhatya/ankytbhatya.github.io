@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Profile"
+title: ""
 author_profile: true
 redirect_from: 
   - /md/
@@ -19,7 +19,7 @@ redirect_from:
 
 *Thesis Title: Modelling the Effects of Patent Litigation on Firm’s Innovation*
 
-*Awards :Director’s Medal for Best Master’s Thesis; Best Policy Paper (NITI Aayog)*
+*Awards: Director’s Medal for Best Master’s Thesis; Best Policy Paper (NITI Aayog)*
 
 # Research Focus
 *Development Economics, Economic Geography, Institutions* 
@@ -29,20 +29,20 @@ redirect_from:
 # Teaching Assistant (Master's Level)
 *Applied Econometrics, Ecoonomic Development, International Trade Theory*
 
-# Research Assistant  & Research Positions
+# Research Assistant
 *Pravin Krishna, Ritam Chaurey, and Ryan Kim (2023-24)*
 
 *Devesh Kapur and Arvind Subramanian (2021-23)*
 
 # Past Employment 
-*Consultant, Political Economy Program, Carnegie Endowment for International Peace, 2019
+*Consultant, Political Economy Program, Carnegie Endowment for International Peace, 2019*
 
-*Research Associate, Centre for Policy Research, 2015-19
+*Research Associate, Centre for Policy Research, 2015-19*
 
-*Consultant, Brookings Institution, Global Metropolitan Program, 2015
+*Consultant, Brookings Institution, Global Metropolitan Program, 2015*
 
-*Consultant, National Institute of Public Finance and Policy, 2014
+*Consultant, National Institute of Public Finance and Policy, 2014*
 
-*Research Intern, Delhi School of Economics, University of Delhi, Summer 2013
+*Research Intern, Delhi School of Economics, University of Delhi, Summer 2013*
 
-*Policy Intern, Planning Commission (now NITI Aayog), Government of India, Summer 2012
+*Policy Intern, Planning Commission (now NITI Aayog), Government of India, Summer 2012*
