@@ -21,5 +21,5 @@ This is a page not in the menu. You can use markdown in this page.
 - *National Consultation on Documenting Land Conflicts in India, Raipur; Samvaad Conclave, Tata Steel, Jamshedpur, 2017*
 - *World Bank Brown Bag Lunch Series, New Delhi, 2017* 
 - *Bergen Exchanges on Law and Social Transformation, University of Bergen, Norway, 2017*
-- *National Smart Cities Conference, New Delhi; Department of Land Resources, Government of India, 2016; 
-- *National Workshop on Land Records Digitization, School of Democracy, Jaipur, 2016
+- *National Smart Cities Conference, New Delhi; Department of Land Resources, Government of India, 2016* 
+- *National Workshop on Land Records Digitization, School of Democracy, Jaipur, 2016*
