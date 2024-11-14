@@ -6,12 +6,14 @@ author_profile: true
 ---
 # Job Market Paper
 **Protected Land Rights, Misallocation, and Dead Capital: Evidence from India**
+
 *This paper uses a geographic Regression Discontinuity Design to examine the long-run effects of protected land rights on structural transformation and economic development. By analyzing a colonial-era law that restricts land transfers between targeted and out-group members within protected areas, I investigate how land restrictions have perpetuated poverty and hindered capital formation, 150 years after the policy's introduction. By geocoding protected area boundaries to high-resolution raster data on built-up areas, I demonstrate that legal discontinuities in property rights have led to inefficient land use conversions and dead capital. This misallocation negatively impacted the welfare of targeted communities.*
 
 <span style="color:blue">Latest version available here</span>
 
 # Working Papers
 **Bridges, Market Access, and City Growth**
+
 *This study uses a two-way fixed-effects model to explore how bridge connectivity influences city growth and the spatial distribution of economic activity across 8,000 city clusters in India. By constructing a counterfactual market access measure that removes bridge connections from the transportation network, I isolate the marginal impact of bridges. Preliminary analysis with a newly geocoded dataset of 1,172 large bridges suggests that bridge connectivity contributed to approximately 12% of built-up area growth in the post-liberalization period. Additionally, evidence indicates spatial sorting of firms away from bridge sites, consistent with urban agglomeration models. These effects are most pronounced in cities with active urban land development authorities, highlighting their critical role in coordination and market clearing.*
 
 # Work in progress
