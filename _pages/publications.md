@@ -14,7 +14,7 @@ author_profile: true
 # Working Papers
 **Bridges, Market Access, and City Growth**
 
-*This study uses a two-way fixed-effects model to explore how bridge connectivity influences city growth and the spatial distribution of economic activity across 8,000 city clusters in India. By constructing a counterfactual market access measure that removes bridge connections from the transportation network, I isolate the marginal impact of bridges. Preliminary analysis with a newly geocoded dataset of 1,172 large bridges suggests that bridge connectivity contributed to approximately 12% of built-up area growth in the post-liberalization period. Additionally, evidence indicates spatial sorting of firms away from bridge sites, consistent with urban agglomeration models. These effects are most pronounced in cities with active urban land development authorities, highlighting their critical role in coordination and market clearing.*
+*This study uses a two-way fixed-effects model to explore how bridge connectivity influences city growth and the spatial distribution of economic activity across 8,000 city clusters in India. By constructing a counterfactual market access measure that removes bridge connections from the transportation network, I isolate the marginal impact of bridges. Preliminary analysis with a newly geocoded dataset of 1,172 large bridges suggests that bridge connectivity contributed to approximately 12% of built-up area growth in the post-liberalization period.*
 
 <span style="color:blue">Latest version available here</span>
 
