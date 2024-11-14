@@ -24,7 +24,7 @@ author:
   avatar           : "ankit-bhatia-image1.png"
   name             : "Ankit Bhatia"
   pronouns         : # example: "he/his"  
-  bio              : "Economist"
+  bio              : "Applied Economist"
   location         : "Washington DC"
   employer         : "Johns Hopkins University"
   uri              : # URL
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "ankytbhatya"  # Replace this with your X / Twitter handle
+  twitter          : # "ankytbhatya"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
