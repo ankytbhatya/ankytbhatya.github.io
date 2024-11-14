@@ -17,7 +17,7 @@ redirect_from:
 - *Awards: Director’s Medal for Best Master’s Thesis; Best Policy Paper (NITI Aayog)*
 
 # Research Focus
-*Development Economics, Economic Geography, Institutions* 
+- *Development Economics, Economic Geography, Institutions* 
 - *Methods: Spatial Microeconometrics, Impact Evaluation, Machine Learning/ NLP*  
 
 # Teaching Assistant (Master's Level)
