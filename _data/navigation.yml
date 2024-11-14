@@ -6,19 +6,19 @@ main:
   - title: "Papers"
     url: /publications/
 
-  - title: "Invited Talks"
-    url: /talks/    
+#  - title: "Invited Talks"
+#    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - title: "PhD Journey"
+  - title: "Conferences"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
-  - title: "CV"
+  - title: "JMP"
     url: /files/resume-ankit-bhatia.pdf
     
 
