@@ -8,7 +8,7 @@ author_profile: true
 **Protected Land Rights, Misallocation, and Dead Capital: Evidence from India**
 *This paper uses a geographic Regression Discontinuity Design to examine the long-run effects of protected land rights on structural transformation and economic development. By analyzing a colonial-era law that restricts land transfers between targeted and out-group members within protected areas, I investigate how land restrictions have perpetuated poverty and hindered capital formation, 150 years after the policy's introduction. By geocoding protected area boundaries to high-resolution raster data on built-up areas, I demonstrate that legal discontinuities in property rights have led to inefficient land use conversions and dead capital. This misallocation negatively impacted the welfare of targeted communities.*
 
-<span style="color:black">Latest version available here</span>
+<span style="color:blue">Latest version available here</span>
 
 # Working Papers
 **Bridges, Market Access, and City Growth**
