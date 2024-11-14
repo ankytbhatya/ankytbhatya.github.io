@@ -13,12 +13,12 @@ main:
 #    url: /teaching/    
     
   - title: "Conferences"
-    url: /portfolio/
+    url: /conferences/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "JMP"
-    url: /files/ankit-bhatia-academic-resume.pdf
+#  - title: "JMP"
+#    url: /files/ankit-bhatia-academic-resume.pdf
     
 
