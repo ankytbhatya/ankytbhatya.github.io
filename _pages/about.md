@@ -19,4 +19,3 @@ Beyond my academic and professional interests, I enjoy cooking, cricketing, and 
 <span style="color:blue">Johns Hopkins University</span>  
 <span style="color:blue">Bloomberg Centre, School of Advanced International Studies</span>  
 <span style="color:blue">555 Pennsylvania Avenue NW, Washington, DC 20001</span>
-Email: abhati17[at]jhu[dot]edu
