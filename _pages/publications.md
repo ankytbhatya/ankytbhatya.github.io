@@ -5,9 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 # Job Market Paper
-**Protected Land Rights, Misallocation, and Dead Capital: Evidence from India**
+**Protected Land Rights, Misallocation, and Dead Capital**
 
-*This paper uses a geographic Regression Discontinuity Design to examine the long-run effects of protected land rights on structural transformation and economic development. By analyzing a colonial-era law that restricts land transfers between targeted and out-group members within protected areas, I investigate how land restrictions have perpetuated poverty and hindered capital formation, 150 years after the policy's introduction. By geocoding protected area boundaries to high-resolution raster data on built-up areas, I demonstrate that legal discontinuities in property rights have led to inefficient land use conversions and dead capital. This misallocation negatively impacted the welfare of targeted communities.*
+*Protected Land Rights (PLRs) for marginalized communities encompass a quarter of land resources across 90 countries.
+Yet, the impact of PLRs on structural transformation and economic development is poorly understood. Theoretically,
+protection could support local entrepreneurship and industry. On the other hand, such measures might lead to the economic
+isolation of targeted areas. Drawing on newly collected historical and high-resolution data in the context of a spatial
+regression discontinuity design, this paper studies the long-run impact of PLRs. Land transfer restrictions between targeted
+and out-group members led to 17% higher agricultural income share, 15% lower firm density in non-primary sectors, and 8%
+lesser housing capital in PLR areas relative to adjacent non-PLR areas. Higher transaction costs in land markets led to
+land misallocation and impeded efficient land use conversion and agglomeration economies. Reducing constraints on
+market transactions for marginalized groups may thus foster entrepreneurship and growth*
 
 <span style="color:blue">Latest version available here</span>
 
@@ -21,6 +29,7 @@ author_profile: true
 # Work in progress
 * NIMBYism, Eminent Domain, and Infrastructure Growth (with Devesh Kapur)
 * Development at Crossroads: Impact of Road Development in Afghanistan (with Ritwiz Sarma)
+* Morocco Digital Ecosystem Assessment Report
 * Comparative Political Economy of Infrastructure Land Development in China and India
 
 # Published Policy Papers
