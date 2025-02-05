@@ -29,7 +29,7 @@ market transactions for marginalized groups may thus foster entrepreneurship and
 # Work in progress
 * NIMBYism, Eminent Domain, and Infrastructure Growth (with Devesh Kapur)
 * Development at Crossroads: Impact of Road Development in Afghanistan (with Ritwiz Sarma)
-* Morocco Digital Ecosystem Assessment Report
+* MENA Digital Ecosystem Assessment Report: A case study of Morocco
 * Comparative Political Economy of Infrastructure Land Development in China and India
 
 # Published Policy Papers
