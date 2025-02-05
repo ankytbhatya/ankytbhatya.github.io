@@ -10,7 +10,8 @@ redirect_from:
 **PhD. in International Development & Economics**, Johns Hopkins University, 2020-25
 - *Field Exams: International Development, International Economics, South Asia*
 - *Dissertation Title: Essays on Infrastructure, Urbanization, and Economic Development*
-- *Committee: Devesh Kapur, Filipe Campante, Shoumitro Chatterjee, Arvind Subramanian*
+- *Committee: Devesh Kapur, Filipe Campante, Shoumitro Chatterjee, Ritam Chaurey, Arvind Subramanian*
+- *Awards: Best Research Paper, Data Science & Artificial Intelligence Track, IMRC, IIM Ahmedabad*
 
 **M.S. & B.S. (Honors) in Economics**, Indian Institute of Technology Kharagpur (IIT), 2009-14
 - *Thesis Title: Modelling the Effects of Patent Litigation on Firm’s Innovation*
@@ -22,7 +23,7 @@ redirect_from:
 
 # Teaching Assistant (Master's Level)
 - *Applied Econometrics (SP'22, SP'23, SP'24)*  
-- *Ecoonomic Development (FA'22, FA'23, FA'24)* 
+- *Economic Development (FA'22, FA'23, FA'24)* 
 - *International Trade Theory (FA'24)*
 
 # Research Assistant
