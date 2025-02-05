@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 # Conferences
-- *Econometrics Society, Winter School, 2024*
+- *World Bank Annual Land Conference, May 2025*
+- *Midwest Economics Association Annual Conference, March 2025*
+- *Winter Conference, Institute for Humane Studies, George Mason University, 2025*
+- *Econometrics Society, Delhi Winter School, 2024*
 - *Annual Conference on Economic Growth and Development, ISI Delhi, 2024* 
 - *India Management Research Conference, IIM Ahmedabad, 2024* 
 - *DMV PhD Research Conference, Johns Hopkins University, 2024* 
