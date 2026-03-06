@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ankit Bhatia — Publications</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --bg:#080808;--surface:#0f0f0f;--border:#1a1a1a;--border2:#222;
+  --text:#d4cfc8;--muted:#555;--bright:#e8e2d9;
+  --amber:#c8820a;--amber-light:#f5a623;
+}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:'DM Mono',monospace;font-size:13px;min-height:100vh;overflow-x:hidden}
+body::before{content:"";position:fixed;inset:0;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");pointer-events:none;z-index:0;opacity:0.4}
+
+.top-bar{position:fixed;top:0;left:0;right:0;z-index:100;display:flex;justify-content:space-between;align-items:center;padding:18px 60px;border-bottom:1px solid var(--border);background:rgba(8,8,8,0.92);backdrop-filter:blur(12px)}
+.top-bar-name{font-family:'Cormorant Garamond',serif;font-size:18px;font-weight:300;letter-spacing:0.06em;color:var(--bright);text-decoration:none}
+.top-bar-back{font-size:11px;letter-spacing:0.12em;text-transform:uppercase;color:var(--muted);text-decoration:none;display:flex;align-items:center;gap:8px;transition:color 0.2s}
+.top-bar-back:hover{color:var(--amber-light)}
+.top-bar-back::before{content:"←"}
+
+.hero{padding:90px 60px 24px;border-bottom:1px solid var(--border)}
+.hero-label{font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:var(--amber);margin-bottom:20px;display:flex;align-items:center;gap:12px}
+.hero-label::after{content:"";flex:1;height:1px;background:var(--border2);max-width:80px}
+.hero-meta{display:flex;gap:40px;flex-wrap:wrap;border-top:1px solid var(--border);padding-top:20px;margin-top:20px}
+.meta-item{display:flex;flex-direction:column;gap:4px}
+.meta-key{font-size:10px;letter-spacing:0.15em;text-transform:uppercase;color:var(--muted)}
+.meta-val{font-size:13px;color:var(--text)}
+
+.container{max-width:960px;margin:0 auto;padding:0 60px}
+.section{padding:20px 0;border-bottom:1px solid var(--border)}
+.section:last-of-type{border-bottom:none}
+.section-head{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:10px}
+.section-title{font-family:'DM Mono',monospace;font-size:11px;font-weight:400;color:var(--muted);letter-spacing:0.18em;text-transform:uppercase}
+.section-link{font-size:11px;color:var(--muted);text-decoration:none;letter-spacing:0.06em;transition:color 0.2s}
+.section-link:hover{color:var(--amber-light)}
+
+/* PAPER CARD */
+.pub-list{display:flex;flex-direction:column;gap:1px;background:var(--border2)}
+.pub-item{
+  background:var(--bg);padding:14px 20px;
+  display:grid;grid-template-columns:44px 1fr;gap:14px;
+  opacity:1;transform:none;
+  transition:background 0.15s;
+}
+.pub-item.visible{opacity:1;transform:none}
+.pub-item:hover{background:var(--surface)}
+.pub-year{font-size:11px;color:var(--muted);letter-spacing:0.08em;padding-top:4px}
+.pub-body{display:flex;flex-direction:column;gap:3px}
+.pub-title{font-family:'Cormorant Garamond',serif;font-size:17px;font-weight:400;color:var(--bright);line-height:1.3;text-decoration:none;cursor:pointer}
+a.pub-title:hover{color:var(--amber-light)}
+.pub-authors{font-size:11px;color:var(--muted);line-height:1.6;margin-top:2px}
+.pub-venue{font-size:11px;color:var(--muted);font-style:italic}
+.pub-links{display:flex;gap:12px;flex-wrap:wrap;margin-top:6px;align-items:center}
+.plink{font-size:11px;letter-spacing:0.08em;text-transform:uppercase;color:var(--muted);text-decoration:none;border-bottom:1px solid var(--border2);padding-bottom:1px;transition:all 0.15s}
+.plink:hover{color:var(--amber-light);border-color:var(--amber-light)}
+.abstract-toggle:hover{border-color:var(--amber);color:var(--amber)}
+
+footer{padding:32px 60px;display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--border);font-size:11px;color:var(--muted);flex-wrap:wrap;gap:12px}
+footer a{color:var(--muted);text-decoration:none}
+footer a:hover{color:var(--amber-light)}
+</style>
+</head>
+<body>
+
+<div class="top-bar">
+  <a href="index.html" class="top-bar-name">Ankit Bhatia</a>
+  <a href="index.html" class="top-bar-back">Back to Home</a>
+</div>
+
+<div class="hero">
+  <div class="container">
+    <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px;margin-bottom:0">
+      <div class="hero-label" style="margin-bottom:0">Research Output</div>
+      <a href="https://scholar.google.com/citations?user=d4D0KmsAAAAJ" target="_blank"
+         style="font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:var(--muted);text-decoration:none;display:flex;align-items:center;gap:6px;transition:color 0.2s"
+         onmouseover="this.style.color='#f5a623'" onmouseout="this.style.color='var(--muted)'">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 010 20"/></svg>
+        Google Scholar ↗
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- WORKING PAPERS -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="section-title">Working Papers</span>
+    </div>
+    <div class="pub-list">
+
+      <!-- JMP -->
+      <div class="pub-item">
+        <div class="pub-year">2025</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">The Long-Run Consequences of Protected Land Rights on Structural Transformation</a>
+          <div class="pub-authors">Ankit Bhatia · Job Market Paper · Johns Hopkins University</div>
+        </div>
+      </div>
+
+      <!-- Big Energy -->
+      <div class="pub-item">
+        <div class="pub-year">2025</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">Estimating the Social Costs of Big Energy: A Novel Approach Using NLP and Remote Sensing</a>
+          <div class="pub-authors">Ankit Bhatia · Dissertation Paper · Johns Hopkins University</div>
+        </div>
+      </div>
+
+      <!-- Bridges -->
+      <div class="pub-item">
+        <div class="pub-year">2025</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">Bridges, Market Access, and City Growth</a>
+          <div class="pub-authors">Ankit Bhatia — Johns Hopkins University</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- POLICY PAPERS -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="section-title">Policy Papers</span>
+    </div>
+    <div class="pub-list">
+
+      <div class="pub-item">
+        <div class="pub-year">2026</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">Reforming Agricultural Land Conversion Laws in States</a>
+          <div class="pub-authors">Shruti Rajagopalan, Shreyas Narla, Ankita Dinkar, Kadambari Shah, Ankit Bhatia</div>
+          <div class="pub-venue">Mercatus Center, George Mason University</div>
+        </div>
+      </div>
+
+      <div class="pub-item">
+        <div class="pub-year">2021</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">Tracking Reforms in Land Leasing and Change in Land Use</a>
+          <div class="pub-authors">Ankit Bhatia · Carnegie Endowment for International Peace, Washington DC</div>
+        </div>
+      </div>
+
+      <div class="pub-item">
+        <div class="pub-year">2018</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">The Political Economy of Land Rights in Scheduled Areas of India</a>
+          <div class="pub-authors">Namita Wahi, Ankit Bhatia · Centre for Policy Research, New Delhi</div>
+        </div>
+      </div>
+
+      <div class="pub-item">
+        <div class="pub-year">2017</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">Land Acquisition in India: A Review of Supreme Court Cases 1950–2016</a>
+          <div class="pub-authors">Namita Wahi, Ankit Bhatia, Pallav Shukla, Dhruv Gandhi, Shubham Jain, Upasana Chauhan · Centre for Policy Research, New Delhi</div>
+        </div>
+      </div>
+
+      <div class="pub-item">
+        <div class="pub-year">2016</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">Building Smart Cities in India: A Blueprint for Allahabad, Ajmer, and Visakhapatnam</a>
+          <div class="pub-authors">Shamika Ravi, Adie Tomer, Ankit Bhatia, Joseph Kane · Brookings Institution, Washington DC</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- DIGITAL PROJECTS -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="section-title">Digital Projects</span>
+    </div>
+    <div class="pub-list">
+
+      <div class="pub-item">
+        <div class="pub-year">2022</div>
+        <div class="pub-body">
+          <a href="https://landlawsofindia.org" target="_blank" class="pub-title">Mapping 1000 Land Laws — landlawsofindia.org</a>
+          <div class="pub-authors">Namita Wahi, Kaustuv Biswas, Akanksha Jain, Ankit Bhatia, et al. · Centre for Policy Research</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- POPULAR COMMENTARY -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="section-title">Popular Commentary & Media</span>
+    </div>
+    <div class="pub-list">
+
+      <div class="pub-item">
+        <div class="pub-year">2026</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">Why is Land Acquisition so Complex in India?</a>
+          <div class="pub-authors">Ankit Bhatia · Puliyabaazi Hindi Podcast</div>
+        </div>
+      </div>
+
+      <div class="pub-item">
+        <div class="pub-year">2019</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">Policy Winds, Land Rights, and Wrongs</a>
+          <div class="pub-authors">Ankit Bhatia · Transfin Audio Podcast</div>
+        </div>
+      </div>
+
+      <div class="pub-item">
+        <div class="pub-year">2016</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">Municipal Bond Market for Smart Cities in India</a>
+          <div class="pub-authors">Shamika Ravi, Ankit Bhatia · The Wire</div>
+        </div>
+      </div>
+
+      <div class="pub-item">
+        <div class="pub-year">2016</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">For Smart Cities to Succeed, Local Governance Is a Must</a>
+          <div class="pub-authors">Shamika Ravi, Ankit Bhatia · The Wire</div>
+        </div>
+      </div>
+
+      <div class="pub-item">
+        <div class="pub-year">2015</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">A Governance-First Approach to India's Smart Cities</a>
+          <div class="pub-authors">Adi Tomer, Ankit Bhatia, Janani Shankaran · Brookings Institution</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- DISCUSSION PAPERS -->
+
+<!-- DISCUSSION PAPERS -->
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <span class="section-title">Discussion Papers</span>
+    </div>
+    <div class="pub-list">
+
+      <div class="pub-item">
+        <div class="pub-year">2023</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">Comparative Political Economy of Land Development in China and India</a>
+          <div class="pub-authors">Ankit Bhatia · Johns Hopkins University</div>
+        </div>
+      </div>
+
+      <div class="pub-item">
+        <div class="pub-year">2022</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">MENA Digital Ecosystem Assessment Report: Evidence from Morocco</a>
+          <div class="pub-authors">Ankit Bhatia · Johns Hopkins University</div>
+        </div>
+      </div>
+
+      <div class="pub-item">
+        <div class="pub-year">2021</div>
+        <div class="pub-body">
+          <a href="#" class="pub-title">Foreign Aid, Road Development, and Insurgency in Afghanistan</a>
+          <div class="pub-authors">Ankit Bhatia · Johns Hopkins University</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer>
+  <span>© 2026 Ankit Bhatia</span>
+  <div style="display:flex;gap:20px">
+    <a href="https://scholar.google.com/citations?user=d4D0KmsAAAAJ" target="_blank">Google Scholar</a>
+    <a href="https://www.linkedin.com/in/ankytbhatya" target="_blank">LinkedIn</a>
+    <a href="mailto:abhati17@jhu.edu">abhati17@jhu.edu</a>
+  </div>
+</footer>
+
+<script>
+// Fade in on scroll
+const items = document.querySelectorAll('.pub-item');
+const obs = new IntersectionObserver(entries => {
+  entries.forEach((e,i) => {
+    if(e.isIntersecting){
+      setTimeout(()=>e.target.classList.add('visible'), i*50);
+      obs.unobserve(e.target);
+    }
+  });
+},{threshold:0.05});
+items.forEach(el=>obs.observe(el));
